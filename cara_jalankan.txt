@@ -1,0 +1,2 @@
+1. venv_sentimen\Scripts\activate
+2. streamlit run app.py
